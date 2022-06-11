@@ -1,0 +1,5 @@
+/gt_image/RGB_day_1_1.png /seg_label/RGB_day_1_1.png/RGB_day_1_1.png 0 1 1 1 0 0
+/gt_image/RGB_day_1_10.png /seg_label/RGB_day_1_10.png/RGB_day_1_10.png 0 1 1 1 0 0
+/gt_image/RGB_day_1_100.png /seg_label/RGB_day_1_100.png/RGB_day_1_100.png 0 1 1 1 0 0
+/gt_image/RGB_day_1_101.png /seg_label/RGB_day_1_101.png/RGB_day_1_101.png 0 1 1 1 0 0
+/gt_image/RGB_day_1_102.png /seg_label/RGB_day_1_102.png/RGB_day_1_102.png 0 1 1 1 0 0
