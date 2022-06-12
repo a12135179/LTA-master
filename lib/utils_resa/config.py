@@ -97,7 +97,7 @@ class Config:
         filename = osp.abspath(osp.expanduser(filename))
         check_file_exist(filename)
         if filename.endswith('.py'):
-            with tempfile.TemporaryDirectory(dir='C:/Users/User/Desktop/LTA/code/LTA-master') as temp_config_dir:
+            with tempfile.TemporaryDirectory(dir='./') as temp_config_dir:
                 print('temp_config_dir=',temp_config_dir)
                 temp_config_file = tempfile.NamedTemporaryFile(
                     dir=temp_config_dir, suffix='')
